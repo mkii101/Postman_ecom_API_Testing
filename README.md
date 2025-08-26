@@ -47,8 +47,7 @@ The collection ([Ecom.postman-collection.json](007%20Ecom.postman-collection.jso
 ## References
 
 - [Postman Documentation](https://learning.postman.com/docs/getting-started/introduction/)
-- [Rahul Shetty Academy APIs](https://rahulshettyacademy.com/)
 
 ---
 
-**File:** [007 Ecom.postman-collection.json](007%20Ecom.postman-collection.json)
+**File:** [Ecom.postman-collection.json](Ecom.postman-collection.json)
